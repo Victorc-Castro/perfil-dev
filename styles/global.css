@@ -33,3 +33,9 @@
   --text-md: 400 16px/140% var(--font-family-Maven-pro);
   --text-sm: 400 14px/140% var(--font-family-Maven-pro);
 }
+
+.container {
+  max-width: 1280px;
+  padding-inline: 32px;
+  margin-inline: auto;
+}

@@ -1,6 +1,3 @@
 @import url(./global.css);
-
-
-p {
-  font: var(--subtitle);
-}
+@import url(./header.css);
+@import url(./main.css);
