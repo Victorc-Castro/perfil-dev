@@ -50,7 +50,8 @@ p.description {
   width: 96px;
   height: 96px;
   border-radius: 50%;
-  border: 3px solid var(--rd-color);  
+  border: 3px solid var(--rd-color);
+  padding: 4px;  
 }
 
 figure {

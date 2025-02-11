@@ -1,0 +1,33 @@
+section#extras {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--gr-100);
+}
+
+section div.cabecalho {
+  margin-top: 88px;
+  margin-bottom: 56px;  
+}
+
+div#informations {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+
+div.ajust {
+  margin-bottom: 120px;
+  border: 1px solid var(--gr-300);
+  border-radius: 12px;
+  padding: 20px;
+}
+
+div.ajust p {
+  color: var(--gr-500);
+  margin-top: 8px;
+}
+
+div.ajust img {
+  margin-bottom: 20px;
+}
