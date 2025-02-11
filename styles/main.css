@@ -1,0 +1,14 @@
+.main-content {
+  border: 1px solid red;
+
+  width: 330px;
+  height: 280px;
+  background-color: var(--gr-300);
+  position: relative;
+}
+
+#main-img {
+  /* position: absolute; */
+  width: 306;
+  height: 156;
+}
