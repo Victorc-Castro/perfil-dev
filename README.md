@@ -1,6 +1,6 @@
-<p align="center"> 
-  <img src="./project-apresetation.png" alt="Demonstração do projeto" width="100%" />
-  </p>
+<p align="center">
+ <img src="./assets/readme-img.png" alt="Foto de capa" width="100%" />
+</p>   
 
   ## 💻 Projeto
   Esse é um projeto de apresentação de perfil dev, com descrição de habilidades e outros trabalhos feitos.
