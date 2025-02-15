@@ -13,4 +13,4 @@
   - Git e Github
 
   ## 🏷️ Layout
-  Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/design/ZkXsJVmd2sy10g6AreMZOf/Portfolio-Dev-(Community)?node-id=0-1&p=f&t=JHd8SISnOSKLatFt-0).
+  Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/design/ZkXsJVmd2sy10g6AreMZOf/Portfolio-Dev-(Community)?node-id=0-1&p=f&t=JHd8SISnOSKLatFt-0). É necessário ter uma conta no [Figma](https://www.figma.com).
