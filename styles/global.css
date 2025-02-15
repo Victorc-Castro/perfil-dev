@@ -23,7 +23,7 @@
   /* Textos */
   --font-family-asap: 'Asap', sans-serif;
   --title-lg: 700 56px/120% var(--font-family-asap);
-  --tite-md: 700 24px/120% var(--font-family-asap);
+  --title-md: 700 24px/120% var(--font-family-asap);
   --title-sm: 700 16px/120% var(--font-family-asap);
 
   --font-family-inconsolata: 'Inconsolata', sans-serif;
@@ -32,6 +32,18 @@
   --font-family-Maven-pro: 'Maven Pro' sans-serif;
   --text-md: 400 16px/140% var(--font-family-Maven-pro);
   --text-sm: 400 14px/140% var(--font-family-Maven-pro);
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--gr-100);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--gr-300);
 }
 
 .container {

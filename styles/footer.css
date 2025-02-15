@@ -1,0 +1,41 @@
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background-image: url(../assets/images/Background_Contacts.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div#social {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  gap: 8px;
+  margin-top: 128px;
+  margin-bottom: 48px;
+}
+
+div#media {
+  display: grid;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 200px;
+}
+
+div#media > figure {
+  &:hover {
+    border: 1px solid var(--bl-color);
+  }
+}
+
+p#txt-pp {
+  color: var(--pp-color);
+}
+
+p#txt-foo {
+  color: var(--gr-500);
+  font: var(--text-md);
+}
